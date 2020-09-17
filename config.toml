@@ -1,4 +1,4 @@
-baseurl      = "Imlebowski.github.io"
+baseurl      = "https://Imlebowski.github.io"
 relativeURLs = true
 title        = "My Blog"
 languageCode = "en-us"
