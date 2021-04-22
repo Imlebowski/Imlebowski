@@ -5,4 +5,4 @@ draft: true
 ---
 
 ### I'm Venkat Krishna. Friends call me The Dude. 
-### I like creating stuffs and I'm always asking questions. xD
+### I like creating stuff and I'm always asking questions. xD
